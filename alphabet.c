@@ -1,5 +1,7 @@
+// This is a program to check whether an entered character is an alphabet or not
 #include<stdio.h>
 #include<conio.h>
+
 void main();
 {
 char ch;
