@@ -2,7 +2,7 @@
 #include<conio.h>
 void main();
 {
-char ch;
+char ch;//declaration of character
 printf("enter any alphabet");
 scanf("%d",&n);
 if(ch>=65&&ch<=90!!ch>=97&&ch<=122)
