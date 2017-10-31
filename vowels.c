@@ -1,4 +1,5 @@
-#include<stdio.h>
+//This is a program to check whether an entered character is vowel or not
+#include<stdio.h>//header file to include standard input output function
 #include<conio.h>
 void main()
 {
