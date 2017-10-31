@@ -1,3 +1,4 @@
+//THIS IS A PROGRAM TO CHECK WHETHER A CHARACTER IS AN ALPHABET OR  NOT
 #include<stdio.h>
 #include<conio.h>
 void main();
